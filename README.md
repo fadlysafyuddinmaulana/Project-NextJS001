@@ -38,3 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## instal bootsrap
 
 npm i aos bootstrap bootstrap-icons dotenv mongose swiper
+
+## kalau di kalian di import AOSnya ada garis merah
+
+npm i --save-dev @types/aos
